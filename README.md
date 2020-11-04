@@ -2,8 +2,6 @@
 
 Estos scripts configuran las cuentas de los clientes
 
-Any code changes done to the lambda function (index.ts) will be picked up by the pipeline and a **build will be triggered automatically**
-
 ## Pre-Requisites
 1. Cuenta de arranque con:
 2. Un repositorio de CodeCommit3
