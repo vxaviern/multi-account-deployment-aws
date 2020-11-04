@@ -1,4 +1,4 @@
-# CDK-Pipeline
+# Despliegue Multicuentas
 
 Estos scripts configuran las cuentas de los clientes
 
